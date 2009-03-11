@@ -756,7 +756,7 @@ ob_start();
         global $LOC, $IN, $LANG;
         if ($IN->GBL('auto_save')=="true")
         {
-        	echo "Templated Updated at: " . date("h:i:s a", $LOC->set_localized_time());
+        	echo "Template Updated at: " . date("h:i:s a", $LOC->set_localized_time());
             exit;
         }
     }
