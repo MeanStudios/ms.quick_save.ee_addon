@@ -18,4 +18,4 @@ __For people upgrading from a version earlier than 2.0.2, I recommend disabling 
 
 # Minor conflict with "CM Template Editor":http://www.caleydon.com/expressionengine/template-editor/ - The auto-save feature does not work and you can only use shortcut keys if you do not have the cursor inside templated edit form.  There are no errors though.
 
-Let me know if you have any questions.
+Let me know if you have any questions. 
