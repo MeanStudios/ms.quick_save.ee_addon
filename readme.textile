@@ -1,0 +1,17 @@
+Greetings,
+
+jQuery Quick Save is an ExpressionEngine extension which gives you the ability to use Ctrl+s while editing a template to quickly save it.  You can also use Ctrl+Shift+s to quickly save and return to the template list.
+
+Version 2.0.2 has the added feature of Auto-Save.  It is set at a 120 second default.  While editing your templates, it will auto-save your template every 2 mins.  The delay can be changed in the extension settings.
+
+*Setup*
+
+__For people upgrading from a version earlier than 2.0.2, I recommend disabling the extension first and then uploading the new files.__
+
+# Download the extension and place the files in the correct folders using the same file structure as the downloaded file
+# Enable jQuery for the Control Panel  (v.1.1.1)
+# Enable jQuery Quick Save
+# Set the full url to the JS files included in this download. *Don't forget to include a trailing slash "/"!!*
+# Enjoy :)
+
+Let me know if you have any questions.
